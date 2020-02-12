@@ -22,7 +22,7 @@ def find_greater_pair(src)
   arr = []
   row_index = 0
   while row_index < src.count do
-    arr[row_index] = "I love #{src[row_index][0]} and #{src[row_index][1]} on my pizza"
+    arr[row_index] = 
     row_index += 1
   end
   arr
